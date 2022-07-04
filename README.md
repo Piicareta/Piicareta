@@ -3,7 +3,7 @@
 - 🌱 Aprendendo ReactJS atualmente
 - ⚡ Futuro FullStack
 
-<div align="center">
+<div align="center" display="flex">
   <a href="https://github.com/Piicareta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Piicareta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piicareta&layout=compact&langs_count=7&theme=dark"/>
@@ -21,8 +21,5 @@
 </a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
 
-<div style="display:flex">
-<img src="https://tenor.com/view/guilty-gear-strive-nagoriyuki-eat-gif-24946338.gif" height="300px">
-</div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)

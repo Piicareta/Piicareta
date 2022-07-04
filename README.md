@@ -1,16 +1,28 @@
-### Hi there 👋
+# Ola! Eu sou o Petrus Zucarelli
+- 📫 Focado em Front End
+- 🌱 Aprendendo ReactJS atualmente
+- ⚡ Futuro FullStack
 
-<!--
-**Piicareta/Piicareta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/Piicareta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Piicareta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piicareta&layout=compact&langs_count=7&theme=dark"/>
+</div><br>
 
-Here are some ideas to get you started:
+<div style="display: inline_block">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"> .
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"> .
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"> .
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px">
+</div>
+<hr>
+<a href="https://www.linkedin.com/in/piicareta/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:flex">
+<img src="https://tenor.com/view/guilty-gear-strive-nagoriyuki-eat-gif-24946338.gif" height="300px">
+</div>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)

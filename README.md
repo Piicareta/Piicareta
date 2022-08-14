@@ -1,7 +1,7 @@
 # Ola! Eu sou o Petrus Zucarelli
 - <h3> 📫 Focado em Front End</h3>
 - <h3> 🌱 Aprendendo Python atualmente</h3>
-- <h3> ⚡ Futuro FullStack</h3>
+
 
 <div align="center">
   <a href="https://github.com/Piicareta">

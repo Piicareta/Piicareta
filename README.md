@@ -1,6 +1,6 @@
 # Ola! Eu sou o Petrus Zucarelli
 - <h3> 📫 Focado em Front End</h3>
-- <h3> 🌱 Aprendendo ReactJS atualmente</h3>
+- <h3> 🌱 Aprendendo Python atualmente</h3>
 - <h3> ⚡ Futuro FullStack</h3>
 
 <div align="center">
@@ -13,7 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"> .
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"> .
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"> .
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px">
 </div>
 <hr>
 <a href="https://www.linkedin.com/in/piicareta/" target="_blank">
